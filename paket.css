@@ -1,0 +1,13 @@
+body{
+    background-image: url('img/galeri/ga1.jpg');
+    background-attachment: fixed;
+    background-size: cover ;
+    background-position: 0 - 50px ;
+    height: 700px;
+    padding-top : 0rem ;
+    text-shadow: 100px ;
+}
+
+section{
+    padding-top: 5rem ;
+}

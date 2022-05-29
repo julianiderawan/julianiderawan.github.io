@@ -1,0 +1,14 @@
+.jumbotron{
+    background-image: url('img/icon.jpg');
+    background-attachment: fixed;
+    color: white ;
+    background-size: cover ;
+    background-position: 0 - 50px ;
+    height: 700px;
+    padding-top : 2rem ;
+    text-shadow: 100px ;
+}
+
+section{
+    padding-top: 5rem ;
+}
